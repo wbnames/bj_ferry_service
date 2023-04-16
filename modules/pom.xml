@@ -4,16 +4,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.jeesite</groupId>
-	<artifactId>jeesite</artifactId>
+	<artifactId>jeesite-modules</artifactId>
 	<version>5.3.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
-	<name>JeeSite</name>
+	<name>JeeSite Modules</name>
 	<url>http://jeesite.com</url>
 	<inceptionYear>2013-Now</inceptionYear>
 	
 	<modules>
-        <module>root</module>
+        <module>core</module>
+        <module>cms</module>
     </modules>
 	
 	<developers>  
