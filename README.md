@@ -8,7 +8,7 @@
  <a href="https://spring.io/projects/spring-boot#learn" target="__blank"><img alt="SpringBoot-2.7" src="https://img.shields.io/badge/SpringBoot-2.7-blue.svg"></a>
  <a href="https://gitee.com/thinkgem/jeesite4/stargazers" target="__blank"><img alt="star" src="https://gitee.com/thinkgem/jeesite4/badge/star.svg?theme=dark"></a>
  <a href="https://gitee.com/thinkgem/jeesite4/members" target="__blank"><img alt="fork" src="https://gitee.com/thinkgem/jeesite4/badge/fork.svg?theme=dark"></a>
-</p>
+</p>1
 
 ## 技术交流
 
