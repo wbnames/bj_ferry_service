@@ -16,7 +16,7 @@
 * 码云Gitee：<https://gitee.com/thinkgem/jeesite4>
 * GitHub：<https://github.com/thinkgem/jeesite4>
 * 作者博客：<https://my.oschina.net/thinkgem>
-* **帮助文档：**<http://docs.jeesite.com>
+* **帮助文档：**<http://docs.jeesite.com>冬冬
 * 官方网站：<http://jeesite.com>
 * 问题反馈：<http://jeesite.net> [【新手必读】](https://gitee.com/thinkgem/jeesite4/issues/I18ARR)
 * 关注微信公众号，了解最新动态：
